@@ -16,7 +16,7 @@ We are ***CyberHojaldre***, composed by Emilia Lever, Sofía Fernández, and Ant
 
 ![fotito sofi con pop 450px](https://github.com/user-attachments/assets/c3ba33b2-c8ce-4c3d-9c67-56cd106d86f9)
 
-### Emilia Lever
+### Emilia Lever P.
 **Age:** 15 years old.
 
 **Team role:** Silly, geeky programmer.
